@@ -15,3 +15,12 @@ This challenge asks us to read through the pseudo code and translate it into Jav
 
 ## Approach and Efficiency
 I read through the pseudo code and translated it as best I could to JS. Then I read through and tried to understand how it worked. When it didn't work upon first translation, I tested the merge function first and got that worked, and then tested it fully in the mergeSort function. 
+
+# Quick Sort
+The quick sort algorithm picks an element in the array as a pivot point and them partitions the array based on that point. It puts all elements smaller than the pivot before it, and all elements bigger after it.
+
+## Challenge Summary 
+This challenge asks us to read through the pseudo code and translate it into JavaScript to write a function that sorts an array using the merge sort algorithm.
+
+## Approach and Efficiency
+I was able to translate this straight from the pseudo code and have it work. 
